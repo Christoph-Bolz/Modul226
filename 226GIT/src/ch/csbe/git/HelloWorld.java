@@ -4,7 +4,6 @@
 package ch.csbe.git;
 
 /**
- * blablabla
  * @author vmadmin
  *
  */
